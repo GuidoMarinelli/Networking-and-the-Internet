@@ -1,0 +1,14 @@
+h1 {text-align:center;
+	background:#FFDB58;
+	font-family: Times;
+	font-size:50px}
+
+body {background-color:black;
+	color:white;
+	font-family:Menlo;
+	margin: 50px;}
+
+p {font-family: Times;
+	font-size: 18px;
+	position: absolute;
+	left: 90px;}
